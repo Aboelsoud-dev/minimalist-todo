@@ -95,6 +95,3 @@ Swap `image.png` for another background image, or update the `favicon.png` file 
 - Font Awesome 6
 - Browser `localStorage` API
 
-## License
-
-This project is available for personal learning and experimentation. Add a license file if you plan to distribute or publish it.
